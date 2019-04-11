@@ -5,8 +5,8 @@ How implement your own scikit learn algorithm
 <ul>
 <li> Because your algorithm could naturally use scikit-learn objects </li>
 <li> Because it constraints you to use their architecture development : structure choice have already done by the dedicated scikit-learn team. </li>
-<li> Because a lot of project take scikit-learn object in parameters and can benefit to your project. Like <a href="https://github.com/slundberg/shap"> shap </a> (interpretability) and <a href="https://github.com/dask/dask">dask</a> (parallel computing). </li>
-<li> Because you want contribute to science and your algorithm could contribute to scikit-learn </li>
+<li> Because a lot of project use scikit-learn object in parameters and can benefit to your project. Like <a href="https://github.com/slundberg/shap"> shap </a> (interpretability) and <a href="https://github.com/dask/dask">dask</a> (parallel computing). </li>
+<li> Because you want contribute to science and your code could contribute to scikit-learn </li>
 </ul>
 
 <h1> How scikit learn objects work ? </h1>
