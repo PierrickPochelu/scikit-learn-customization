@@ -1,7 +1,3 @@
-#https://github.com/scikit-learn/scikit-learn/blob/ab9eebfa3a8d276de67b25ce42002a20298998b5/sklearn/model_selection/_search.py#L617
-# BaseSearchCV begin to line
-# GridSearchCV begin to line 1177
-
 import numpy as np
 from sklearn.base import BaseEstimator, ClassifierMixin
 from sklearn.utils.validation import check_X_y, check_array, check_is_fitted
