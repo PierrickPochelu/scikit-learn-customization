@@ -1,5 +1,5 @@
 # scikit-learn-customization
-How implement your own scikit learn algorithm
+How implement your own algorithm in scikit learn objects
 
 <h1> Why your algorithm should be scikit-learn objects ? </h1>
 <ul>
